@@ -75,12 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
         tooltip: 'Add Image by gallery',
         child: new Icon(Icons.image),
       ),
-      RaisedButton(child: Text('list'),onPressed: (){
-        Navigator.push(
-    context,
-    MaterialPageRoute(builder: (context) => ),
-  );
-      },) 
+      
       ],
         ), 
       ],
